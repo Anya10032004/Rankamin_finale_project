@@ -76,15 +76,24 @@ The analysis_table table is actually made by merging 4 datasets
 https://datastudio.google.com/reporting/8dc7a40e-a571-4f57-99bf-5d41f31f8cb2/page/oYLwF
 
 ## 📂 Repository Structure
-│
+```
 ├── SQL/
+
 | └── analysis_query.sql
+
 ├── dataset/
+
 | └── Analysis_table(sample_10_rows)
+
 ├── dashboard/
+
 | └── Finale_project_rankamin (1)
-| └── Link_to_the_dashboard_in_google studio.txt  
+
+| └── Link_to_the_dashboard_in_google_studio.txt
+
 ├── README.md
+
+```
 
 ## Additional Links
  - 📂 GitHub Repository: 
