@@ -89,7 +89,7 @@ https://datastudio.google.com/reporting/8dc7a40e-a571-4f57-99bf-5d41f31f8cb2/pag
 
 | └── Finale_project_rankamin (1)
 
-| └── Link_to_the_dashboard_in_google_studio.txt
+| └── Link to the dashboard in google studio.txt
 
 ├── README.md
 
