@@ -1,0 +1,11 @@
+transaction_id,date,branch_id,branch_name,kota,provinsi,rating_cabang,customer_name,product_id,product_name,actual_price,discount_percentage,persentase_gross_laba,nett_sales,rating_transaksi,nett_profit
+TRX1232342,2023-05-30,62312,Kimia Farma - Apotek,Cianjur,Jawa Barat,4.5,Linda Butler,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,4.8,315.0
+TRX6802081,2020-08-20,34489,Kimia Farma - Apotek,Garut,Jawa Barat,4.4,Paul Rivera,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,4.2,315.0
+TRX1079785,2021-05-13,33816,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.0,Kyle Conley,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,4.2,315.0
+TRX6978726,2022-05-26,93878,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.5,Suzanne Miller,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,3.5,315.0
+TRX6445517,2023-11-18,80557,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.0,Stephen Marshall,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,3.2,315.0
+TRX6565400,2020-01-05,90734,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,Belinda Flores,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,3.6,315.0
+TRX2927649,2023-04-17,97760,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.6,Tyler Weaver,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,4.0,315.0
+TRX1079785,2021-05-13,33816,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.0,Kyle Conley,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,4.2,315.0
+TRX1079785,2021-05-13,33816,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.0,Kyle Conley,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,4.2,315.0
+TRX2619435,2022-10-17,59275,Kimia Farma - Apotek,Garut,Jawa Barat,4.6,William Anderson,KF172,"Psycholeptics drugs, Hypnotics and sedatives drugs",2100,0.15,0.1,1785.0,3.8,315.0
