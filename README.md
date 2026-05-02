@@ -24,14 +24,22 @@ The analysis_table column information:
   - actual_price: product price
   - discount_percentage: discount percentage applied to the product
   - persentase_gross_laba (gross profit percentage)
+    
      -- Price ≤ Rp 50,000 → 10%
+    
      -- Rp 50,000 < Price ≤ Rp 100,000 → 15%
+    
      -- Rp 100,000 < Price ≤ Rp 300,000 → 20%
+    
      -- Rp 300,000 < Price ≤ Rp 500,000 → 25%
+    
      -- Price > Rp 500,000 → 30%
+    
   - nett_sales: price after discount (net sales / revenue after discount
      - nett_profit: net profit earned by Kimia Farma
+       
   - rating_transaksi (transaction_rating): customer rating of the transaction
+  - 
 
 
 The analysis_table table is actually made by merging 4 datasets
