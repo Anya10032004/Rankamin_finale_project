@@ -1,5 +1,3 @@
-SELECT * FROM rakaminkfanalytics-494204.kimia_farma.final_transaction;
-
 
 -- 1. DETERMINE THE PRIMARY KEY AND FOREIGN KEY:
 -- --------------------------------------------------------------------
@@ -77,6 +75,9 @@ FROM `rakaminkfanalytics-494204.kimia_farma.analysis_table`;
 
 
 
+-- 4. To see the table
+-- --------------------------------------------------------------------
+-- ----------------------------------------------------------------------
 SELECT * FROM `rakaminkfanalytics-494204.kimia_farma.analysis_table`; 
 
 
