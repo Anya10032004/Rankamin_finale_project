@@ -81,11 +81,11 @@ https://datastudio.google.com/reporting/8dc7a40e-a571-4f57-99bf-5d41f31f8cb2/pag
 
 | └── analysis_query.sql
 
-├── dataset/
+├── Dataset/
 
 | └── Analysis_table(sample_10_rows)
 
-├── dashboard/
+├── Dashboard/
 
 | └── Finale_project_rankamin (1)
 
