@@ -13,3 +13,8 @@ This project analyzes the business performance of Kimia Farma from 2020 to 2023 
 The analysis_table column information:
 
 The analysis_table table is actually made by merging 4 datasets
+
+1. kf_final_transaction.csv
+2. kf_product.csv
+3. kf_inventory.csv
+4. kf_kantor_cabang.csv
