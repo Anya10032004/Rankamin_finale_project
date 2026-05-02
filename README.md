@@ -11,6 +11,28 @@ This project analyzes the business performance of Kimia Farma from 2020 to 2023 
 ## 🗂️ Dataset Information
 
 The analysis_table column information:
+  - transaction_id: transaction ID
+  - date: transaction date
+  - branch_id: Kimia Farma branch ID
+  - branch_name: branch name
+  - kota (city): city where the branch is located
+  - provinsi (province): province where the branch is located
+  - rating_cabang (branch_rating): customer rating of the branch
+  - customer_name: name of the customer who made the transaction
+  - product_id: product ID
+  - product_name: product (medicine) name
+  - actual_price: product price
+  - discount_percentage: discount percentage applied to the product
+  - persentase_gross_laba (gross profit percentage)
+     -- Price ≤ Rp 50,000 → 10%
+     -- Rp 50,000 < Price ≤ Rp 100,000 → 15%
+     -- Rp 100,000 < Price ≤ Rp 300,000 → 20%
+     -- Rp 300,000 < Price ≤ Rp 500,000 → 25%
+     -- Price > Rp 500,000 → 30%
+  - nett_sales: price after discount (net sales / revenue after discount
+     - nett_profit: net profit earned by Kimia Farma
+  - rating_transaksi (transaction_rating): customer rating of the transaction
+
 
 The analysis_table table is actually made by merging 4 datasets
 
@@ -24,5 +46,45 @@ The analysis_table table is actually made by merging 4 datasets
      - discount_percentage: percentage of discount applied to the product
      - rating: customer rating for the transaction
 2. kf_product.csv
+     - product_id: product ID (medicine)
+     - product_name: product name (medicine)
+     - product_category: product category (medicine)
+     - price: product price
 3. kf_inventory.csv
-4. kf_kantor_cabang.csv
+    - inventory_ID: inventory ID for the medicine product
+    - branch_id: Kimia Farma branch ID
+    - product_id: product ID (medicine)
+    - product_name: product name (medicine)
+    - opname_stock: total stock of the product
+6. kf_kantor_cabang.csv
+    - branch_id: Kimia Farma branch ID
+    - branch_category: branch category
+    - branch_name: branch office name
+    - kota: city of the branch
+    - provinsi: province of the branch
+    - rating: customer rating for the branch
+
+## ⚙️ Tools & Technologies
+ - Google BigQuery (SQL)
+ - Google Cloud Platform (GCP)
+ - Google Looker Studio
+ - GitHub
+
+## 📈 Dashboard
+
+🔗 Dashboard Link: 
+https://datastudio.google.com/reporting/8dc7a40e-a571-4f57-99bf-5d41f31f8cb2/page/oYLwF
+
+## 📂 Repository Structure
+
+├── SQL/
+│   └── analysis_query.sql
+├── dataset/
+├── dashboard/
+├── README.md
+
+## Additional Links
+ - 📂 GitHub Repository: https://datastudio.google.com/reporting/8dc7a40e-a571-4f57-99bf-5d41f31f8cb2/page/oYLwF
+ - 📊 Dashboard: (link dashboard)
+ - 📄 Presentation (PPT): (link PPT)
+ - 🎥 Video Explanation: (link video)
