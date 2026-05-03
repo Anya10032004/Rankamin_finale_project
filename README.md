@@ -98,6 +98,10 @@ The analysis_table table is actually made by merging 4 datasets
 🔗 Dashboard Link: 
 https://datastudio.google.com/reporting/8dc7a40e-a571-4f57-99bf-5d41f31f8cb2/page/oYLwF
 
+## 🔍 Business insights
+
+## 💡 Business recommendation
+
 ## 📂 Repository Structure
 ```
 ├── SQL/
