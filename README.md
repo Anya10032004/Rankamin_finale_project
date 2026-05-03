@@ -84,16 +84,15 @@ The analysis_table table is actually made by merging 4 datasets
  5. Build a dashboard in Looker Studio
 
 ## 📊 Key Features / Analysis
-- Determine the profit distribution by Province in Indonesia
-- Determine the top 10 branches with the highest transactions by Province
-- Determine the top 10 cities by average profit per transaction
-- Determine the top 5 Branches with the highest Branch Ratings & the lowest
-  Transaction ratings
-- Determine the top 5 most profitable products
-- Determine annual revenue trends
-- Determine the top 10 net sales by Province in Indonesia
 
-    
+- Analyze the profit distribution across provinces in Indonesia
+- Identify the top 10 branches with the highest number of transactions in each province in Indonesia
+- Determine the top 10 cities based on average profit per transaction
+- Identify the top 5 branches with the highest branch ratings but the lowest transaction ratings
+- Determine the top 5 most profitable products
+- Analyze annual revenue trends
+- Identify the top 10 provinces with the highest net sales
+
 ## 📈 Dashboard
 
 🔗 Dashboard Link: 
