@@ -39,8 +39,6 @@ The analysis_table column information:
      - nett_profit: net profit earned by Kimia Farma
        
   - rating_transaksi (transaction_rating): customer rating of the transaction
-  - 
-
 
 The analysis_table table is actually made by merging 4 datasets
 
@@ -78,6 +76,24 @@ The analysis_table table is actually made by merging 4 datasets
  - Google Looker Studio
  - GitHub
 
+## 🔄 Project Workflow
+ 1. Import datasets into BigQuery
+ 2. Clean and transform data
+ 3. Create an analysis table by joining
+ 4. Calculate metrics (nett sales, profit, etc.)
+ 5. Build a dashboard in Looker Studio
+
+## 📊 Key Features / Analysis
+- Determine the profit distribution by Province in Indonesia
+- Determine the top 10 branches with the highest transactions by Province
+- Determine the top 10 cities by average profit per transaction
+- Determine the top 5 Branches with the highest Branch Ratings & the lowest
+  Transaction ratings
+- Determine the top 5 most profitable products
+- Determine annual revenue trends
+- Determine the top 10 net sales by Province in Indonesia
+
+    
 ## 📈 Dashboard
 
 🔗 Dashboard Link: 
