@@ -4,9 +4,15 @@
 This project analyzes the business performance of Kimia Farma from 2020 to 2023 using BigQuery and Google Looker Studio. The goal is to transform raw data into meaningful insights such as sales trends, branch performance, and customer ratings. The data is processed using SQL in BigQuery and visualized through an interactive dashboard.
 
 ## 🎯 Objectives
- - Analyze revenue and profit trends from 2020 to 2023
- - Identify top-performing branches
- - Identify Profitable products 
+- Analyze revenue performance trends from 2020 to 2023 to understand overall business stability and growth patterns.
+- Identify top-performing provinces and branches based on revenue, profit, and transaction volume.
+- Detect high-profit but low-sales products (underrated products) that have strong margins but low transaction frequency.
+- Evaluate profit contribution by province to determine which regions generate the highest business value.
+- Analyze city-level performance within each province by calculating the average profit per transaction.
+- Identify underrated branches—branches with high customer ratings but relatively low transaction volumes—and explore possible causes.
+- Examine profit and sales distribution patterns across regions, branches, and products to uncover key business insights.
+- Generate data-driven business insights to support strategic decision-making and performance improvement.
+- Provide actionable business recommendations to increase revenue, improve transaction volume, and optimize product and branch performance.
 
 ## 🗂️ Dataset Information
 
