@@ -124,5 +124,5 @@ https://datastudio.google.com/reporting/8dc7a40e-a571-4f57-99bf-5d41f31f8cb2/pag
 
 ## Additional Links
  - 📂 GitHub Repository: https://github.com/Anya10032004/Rankamin_finale_project
- - 📄 Presentation (PPT): (link PPT)
- - 🎥 Video Explanation: (link video)
+ - 📄 Presentation (PPT): https://docs.google.com/presentation/d/1xc19aI7Nb05oyQ8OTsxjSikXMAus8RmPXcZe8Ob7sQI/edit?usp=sharing
+ - 🎥 Video Explanation: https://youtu.be/U92kj4zlHn0
