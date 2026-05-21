@@ -105,8 +105,38 @@ The analysis_table table is actually made by merging 4 datasets
 https://datastudio.google.com/reporting/8dc7a40e-a571-4f57-99bf-5d41f31f8cb2/page/oYLwF
 
 ## 🔍 Business insights
+ - Revenue throughout 2020 to 2023 remains relatively stable. Although there are slight increases and decreases each year, the changes are not really significant.
+ - West Java Province contribute the most in profit/revenue and total sales in Kimia Farma
+ - Top contributing products in profit but low in sales are mostly symptom-relief medications, such as sedatives and anxiolytics for relaxation and sleep, antihistamines for allergies, drugs for obstructive airway diseases (respiratory issues), and analgesics for pain and fever.
+ - Top 5 Kimia Farma branches with the highest customer ratings but relatively low transaction ratings are located in Bangka Belitung, South Sulawesi, North Kalimantan, North Sumatra, and Nusa Tenggara Barat. If we zoom in to their city, Lower transaction ratings may be influenced by a relatively smaller amount customer base compared to other cities within the same province—such as Pangkalpinan from Bangka Belitung and Tarakan from North Kalimantan—or by lower transaction quality in certain cities, including Pematangsiantar, Tomohon, and Bima
+ - Although West Java generates the highest total revenue, the cities with the highest average profit per transaction are mostly outside West Java—and even outside Java. Several of these cities also contribute strongly to their province’s revenue and transaction volume, this cities are Lubuklinggau (South Sumatra), Bontang (East Kalimantan), Malang and Madiun (East Java), Medan (North Sumatra), Pekanbaru (Riau), Tomohon (North Sulawesi), and Banda Aceh (Aceh). Meanwhile, others like Tangerang (Banten) and Palu (Central Sulawesi) have high profit per transaction but relatively low overall transactions and revenue. 
 
 ## 💡 Business recommendation
+So based on the evaluation of the performance of Kimia Farma year 2020-2023, so in order so that the revenue of the Kimia farma increases, some business recommendations that helps are:
+- For cities that has lower revenue and transaction volume, but has high profit in each transactions:
+  Tangerang and Palu:
+  Increase the number of customers in branches with lower revenue and transaction volume . This can be achieved by improving visibility and conducting location assessments—for example, evaluating whether the branch is in a low-traffic
+  area or lacks sufficient customer exposure.
+  
+- Focus on “underated” branches, which has high customer ratings, but low transaction rating
+
+  Branches with lower number of customers:
+  Focus on increase the number of customer  → Ex: Local promotion or improve the exposure of the branch
+
+  More likely because of Transaction quality:
+  Increase payment flexibility →  Such as add more payment methods
+  
+- Focus on products that generates high profits, but low sales
+  - Increase product visibility → Ex: placement in-store or highlight the products through displays and recommendations.
+  - Do some promotion to the products → Ex: offering promotions such as bundling with related products.
+  - Educate customers on product benefits  → Provide clear information about the product’s value and benefits, as low sales may be due to limited customer awareness.
+- For west Java
+  Because West Java contributes the highest revenue, profit, and total sales, the strategy should focus on maintaining and further improving its performance through the following actions:
+   - Make each customer to spend more → Ex: Offer bundle or recommend additional products
+   - Focus on products that give the most profit → So because West Java has the most number of transactions and generates the most profits/revenue, we can try to leverage the condition by promoting and selling high-margin products, not just the most popular ones.
+   - Reward repeat customers → Ex: Make loyalty programs, Discounts for repeat buyers 
+
+
 
 ## 📂 Repository Structure
 ```
